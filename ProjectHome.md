@@ -1,4 +1,4 @@
-### For more information, please see the "[Wiki](http://code.google.com/p/armware/wiki/English_Introduction)" page. ###
+### For more information, please see the "[Wiki](https://github.com/BackupGGCode/armware/blob/wiki/English_Introduction.md)" page. ###
 
 `-------------------------------------------------------------------------------------------`
 
