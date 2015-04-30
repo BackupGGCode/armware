@@ -1,6 +1,6 @@
 ### For more information, please see the "[Wiki](https://github.com/BackupGGCode/armware/blob/wiki/English_Introduction.md)" page. ###
 
-`-------------------------------------------------------------------------------------------`
+---
 
 # Feature #
 
